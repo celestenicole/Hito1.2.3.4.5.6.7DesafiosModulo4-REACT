@@ -63,12 +63,16 @@ El proyecto incluye funcionalidades como registro, login, carrito de compras, co
 ⸻
 
 📌 Instrucciones de Uso
+
 	1.	Clonar el repositorio:
 git clone <URL_REPOSITORIO>
+
 	2.	Instalar dependencias:
 npm install
+
 	3.	Ejecutar el proyecto:
 npm run dev
+
 	4.	Abrir en navegador:
 http://localhost:5173
 
